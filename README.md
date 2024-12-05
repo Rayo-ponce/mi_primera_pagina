@@ -1,2 +1,2 @@
 # mi_primera_pagina
-Pagína realizada para como introducción a HTML
+Pagína realizada como introducción a HTML
