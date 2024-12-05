@@ -1,0 +1,44 @@
+body{
+    background: #7678ed;
+    font-family:"Hubot Sans", sans-serif;
+    font-size:medium; 
+}
+
+img {height:200px; /*Alto*/
+width: ;   /*Ancho*/
+} 
+
+.python{
+   width: 200px;
+   border-radius: 200px;
+   border: double;
+}
+
+
+.python2{
+    width: 170px;
+    border-radius: 50px;
+    opacity: 0.8;
+    border: dashed;
+}
+
+.imagenes{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.Beneficio{
+    background-color: beige;
+    font-size:small;
+    color:rgb(130, 20, 255);
+}
+
+.aplicaciones{
+  background-color: beige;
+  font-size:small;
+  color:rgb(255, 20, 110);
+}
+ 
